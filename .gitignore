@@ -1,0 +1,24 @@
+# Data and checkpoints (too large for GitHub)
+checkpoints/
+data/
+
+# Python
+__pycache__/
+*.pyc
+*.pth
+*.pt
+
+# Jupyter
+.ipynb_checkpoints/
+
+# LaTeX build artifacts
+report/*.aux
+report/*.log
+report/*.out
+report/*.fls
+report/*.fdb_latexmk
+report/*.synctex.gz
+report/*.bbl
+report/*.bcf
+report/*.blg
+report/*.run.xml
