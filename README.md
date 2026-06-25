@@ -1,6 +1,6 @@
 # When Do Diffusion Transformers Outperform U-Nets?
 
-**Gunbir Baveja, Parvin Aliyeva, Arshvir Sandhu** - UBC CPSC 440/550, April 2026
+**Arshvir Sandhu, Gunbir Baveja, Parvin Aliyeva** - UBC CPSC 440/550, April 2026
 
 ## Overview
 A controlled comparison of a convolutional U-Net and a patch-based Diffusion Transformer
@@ -10,7 +10,7 @@ long-range spatial reasoning.
 
 ## Repository Structure
 - `notebook/` — Colab training notebook
-- `report/`   — LaTeX source for the paper
+- `report/`   — LaTeX and PDF source for the paper
 - `figs/`     — figures and sample images
 
 ## Results Summary
